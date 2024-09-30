@@ -1,0 +1,2 @@
+# yapayzekacalismalar
+study
