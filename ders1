@@ -9,4 +9,9 @@ print(sys.version)
 from google.colab import drive #google colab - driver bağlantısı
 drive.mount('/content/drive')
 
+import os 
+os.chdir('/content/drive/My Drive/("Klasör İsmin)')
 
+!pwd # bize kodun çıktısını dosya yolu olarak kod blogudur.
+
+/content/drive/My Drive/("Klasör İsmin)
